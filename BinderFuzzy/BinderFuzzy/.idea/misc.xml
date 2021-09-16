@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Lutech/New folder/15_09_2021/BinderFuzzy/BinderFuzzy/app/src/main/res/drawable/ic_back_white.xml" value="0.3098958333333333" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/BinderFuzzy/BinderFuzzy/app/src/main/res/layout/activity_fuzzer_console.xml" value="0.20364583333333333" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/BinderFuzzy/BinderFuzzy/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/BinderFuzzy/BinderFuzzy/app/src/main/res/layout/activity_recents.xml" value="0.20364583333333333" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/BinderFuzzy/BinderFuzzy/app/src/main/res/layout/activity_shop.xml" value="0.20520833333333333" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/BinderFuzzy/BinderFuzzy/app/src/main/res/layout/fragment_class_object.xml" value="0.20364583333333333" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/BinderFuzzy/BinderFuzzy/app/src/main/res/layout/fragment_method_object.xml" value="0.20364583333333333" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/BinderFuzzy/BinderFuzzy/app/src/main/res/layout/fragment_service_selector_list.xml" value="0.20520833333333333" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/BinderFuzzy/BinderFuzzy/app/src/main/res/layout/ic_back_white.xml" value="0.29375" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/BinderFuzzy/BinderFuzzy/app/src/main/res/layout/param_configurator_null.xml" value="0.20364583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

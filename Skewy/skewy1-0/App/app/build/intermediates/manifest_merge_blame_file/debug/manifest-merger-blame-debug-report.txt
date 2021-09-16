@@ -1,0 +1,122 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.syuzme.thanh.myapp.skewy"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:5:5-71
+11-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:5:22-68
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:6:5-77
+12-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:6:22-74
+13    <uses-permission android:name="com.android.vending.BILLING" />
+13-->[com.android.billingclient:billing:4.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\2b3ed93363fbdfbc6b20b14744befb19\jetified-billing-4.0.0\AndroidManifest.xml:10:5-67
+13-->[com.android.billingclient:billing:4.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\2b3ed93363fbdfbc6b20b14744befb19\jetified-billing-4.0.0\AndroidManifest.xml:10:22-64
+14
+15    <application
+15-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:8:5-35:19
+16        android:name="hans.b.skewy1_0.BaseApplication"
+16-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:9:9-55
+17        android:allowBackup="true"
+17-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:10:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.0.1] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\36e3e9561b56dfae3649040dc909bb65\core-1.0.1\AndroidManifest.xml:22:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher_adaptive_fore"
+20-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:11:9-57
+21        android:label="@string/app_name"
+21-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:12:9-41
+22        android:roundIcon="@mipmap/ic_launcher_adaptive_fore"
+22-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:13:9-62
+23        android:supportsRtl="true"
+23-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:15:9-40
+26        <activity
+26-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:17:9-29:20
+27            android:name="hans.b.skewy1_0.MainActivity"
+27-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:18:13-56
+28            android:configChanges="locale|orientation"
+28-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:23:13-55
+29            android:label="@string/app_name"
+29-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:19:13-45
+30            android:launchMode="singleTop"
+30-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:21:13-43
+31            android:screenOrientation="portrait"
+31-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:22:13-49
+32            android:theme="@style/AppTheme.NoActionBar" >
+32-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:20:13-56
+33            <intent-filter>
+33-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:24:13-28:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:25:17-69
+34-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:25:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:27:17-77
+36-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:27:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity android:name="hans.b.skewy1_0.ShopActivity" />
+39-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:30:9-74
+39-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:30:19-62
+40
+41        <service
+41-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:31:9-32:42
+42            android:name="hans.b.skewy1_0.ServiceMusic"
+42-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:31:18-61
+43            android:stopWithTask="true" />
+43-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:32:13-40
+44        <service
+44-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:33:9-34:42
+45            android:name="hans.b.skewy1_0.ServiceRecorder"
+45-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:33:18-64
+46            android:stopWithTask="true" />
+46-->D:\Lutech\New folder\15_09_2021\Skewy\skewy1-0\App\app\src\main\AndroidManifest.xml:34:13-40
+47
+48        <meta-data
+48-->[com.android.billingclient:billing:4.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\2b3ed93363fbdfbc6b20b14744befb19\jetified-billing-4.0.0\AndroidManifest.xml:13:9-15:37
+49            android:name="com.google.android.play.billingclient.version"
+49-->[com.android.billingclient:billing:4.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\2b3ed93363fbdfbc6b20b14744befb19\jetified-billing-4.0.0\AndroidManifest.xml:14:13-73
+50            android:value="4.0.0" />
+50-->[com.android.billingclient:billing:4.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\2b3ed93363fbdfbc6b20b14744befb19\jetified-billing-4.0.0\AndroidManifest.xml:15:13-34
+51
+52        <activity
+52-->[com.android.billingclient:billing:4.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\2b3ed93363fbdfbc6b20b14744befb19\jetified-billing-4.0.0\AndroidManifest.xml:17:9-21:75
+53            android:name="com.android.billingclient.api.ProxyBillingActivity"
+53-->[com.android.billingclient:billing:4.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\2b3ed93363fbdfbc6b20b14744befb19\jetified-billing-4.0.0\AndroidManifest.xml:18:13-78
+54            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+54-->[com.android.billingclient:billing:4.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\2b3ed93363fbdfbc6b20b14744befb19\jetified-billing-4.0.0\AndroidManifest.xml:19:13-96
+55            android:exported="false"
+55-->[com.android.billingclient:billing:4.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\2b3ed93363fbdfbc6b20b14744befb19\jetified-billing-4.0.0\AndroidManifest.xml:20:13-37
+56            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+56-->[com.android.billingclient:billing:4.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\2b3ed93363fbdfbc6b20b14744befb19\jetified-billing-4.0.0\AndroidManifest.xml:21:13-72
+57
+58        <service
+58-->[androidx.room:room-runtime:2.1.0-beta01] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8016dd9b1a6b2c62431c8dce6dad285c\room-runtime-2.1.0-beta01\AndroidManifest.xml:23:9-25:40
+59            android:name="androidx.room.MultiInstanceInvalidationService"
+59-->[androidx.room:room-runtime:2.1.0-beta01] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8016dd9b1a6b2c62431c8dce6dad285c\room-runtime-2.1.0-beta01\AndroidManifest.xml:24:13-74
+60            android:exported="false" />
+60-->[androidx.room:room-runtime:2.1.0-beta01] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\8016dd9b1a6b2c62431c8dce6dad285c\room-runtime-2.1.0-beta01\AndroidManifest.xml:25:13-37
+61
+62        <provider
+62-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9824c391b7e414001495aecbe9279af\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+63            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+63-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9824c391b7e414001495aecbe9279af\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+64            android:authorities="com.syuzme.thanh.myapp.skewy.lifecycle-process"
+64-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9824c391b7e414001495aecbe9279af\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+65            android:exported="false"
+65-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9824c391b7e414001495aecbe9279af\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+66            android:multiprocess="true" />
+66-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Admin\.gradle\caches\transforms-2\files-2.1\b9824c391b7e414001495aecbe9279af\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+67    </application>
+68
+69</manifest>

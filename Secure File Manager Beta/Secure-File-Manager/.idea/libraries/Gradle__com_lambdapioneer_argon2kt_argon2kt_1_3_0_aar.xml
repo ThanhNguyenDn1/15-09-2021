@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lambdapioneer.argon2kt:argon2kt:1.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/916f7a8beae0379f9767203cab313d4e/transformed/jetified-argon2kt-1.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/916f7a8beae0379f9767203cab313d4e/transformed/jetified-argon2kt-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/916f7a8beae0379f9767203cab313d4e/transformed/jetified-argon2kt-1.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lambdapioneer.argon2kt/argon2kt/1.3.0/e36aa09240f9f768c7368a1b5cd25cf93ef7d8ae/argon2kt-1.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lambdapioneer.argon2kt/argon2kt/1.3.0/6af3679df9b9e019938f8636891326ad2de96127/argon2kt-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

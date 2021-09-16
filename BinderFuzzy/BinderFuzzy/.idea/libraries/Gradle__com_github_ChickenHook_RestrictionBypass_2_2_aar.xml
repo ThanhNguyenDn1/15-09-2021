@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ChickenHook:RestrictionBypass:2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f46c5d35707d8d6bd488292142e6f9c/jetified-RestrictionBypass-2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f46c5d35707d8d6bd488292142e6f9c/jetified-RestrictionBypass-2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f46c5d35707d8d6bd488292142e6f9c/jetified-RestrictionBypass-2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ChickenHook/RestrictionBypass/2.2/7e1b857f4c8ce3aff4d5832304dc2b0e8e14ec3a/RestrictionBypass-2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

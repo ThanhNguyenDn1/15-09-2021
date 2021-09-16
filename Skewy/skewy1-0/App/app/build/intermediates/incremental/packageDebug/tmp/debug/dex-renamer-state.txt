@@ -1,0 +1,7 @@
+#Wed Sep 15 23:14:20 ICT 2021
+base.1=D\:\\Lutech\\New folder\\15_09_2021\\Skewy\\skewy1-0\\App\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=D\:\\Lutech\\New folder\\15_09_2021\\Skewy\\skewy1-0\\App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/activity_main.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/activity_shop.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/alarm_item.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_about.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_edit_slm_parameters.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_edit_spectrum_parameters.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_frequency_alarm.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_graph_view.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_help.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_help_controller.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_how_to_use_this.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_language.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_privacy_data.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_settings.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_speaker.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/dialog_what_am_i_looking_at.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/fragment_alarm.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/layout/fragment_operation.xml" value="0.22010869565217392" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/menu/main_menu.xml" value="0.3619791666666667" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.34791666666666665" />
+        <entry key="..\:/Lutech/New folder/15_09_2021/Skewy/skewy1-0/App/app/src/main/res/mipmap-anydpi-v26/ic_skewy_launcher.xml" value="0.34791666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
